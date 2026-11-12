@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090b1a,50:302066,100:2563eb&height=220&section=header&text=HELLO%2C%20WORLD&fontSize=52&fontColor=F1F5FF&animation=fadeIn&fontAlignY=36&desc=BACKEND%20%2F%20AI%20AGENTS%20%2F%20SECURITY&descAlignY=58&descSize=16" width="100%" alt="Hello world — Backend, AI Agents and Security" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7868FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+and+scale.;Go+Backend+%7C+AI+Agents+%7C+Security;Turning+coffee+into+code+and+curiosity.)](https://github.com/5120212727)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7868FF&center=true&vCenter=true&width=700&lines=Building+systems+that+think+and+scale.;Go+Backend+%7C+AI+Agents+%7C+Security;Turning+coffee+into+code+and+curiosity.)](https://github.com/UyanNv3)
 
 `> curiosity.init()` &nbsp; `> build()  // repeat`
 
@@ -31,9 +31,9 @@
 ### 🐍 Contribution trace
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/5120212727/5120212727/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/5120212727/5120212727/output/github-snake.svg" />
-  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/5120212727/5120212727/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UyanNv3/UyanNv3/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UyanNv3/UyanNv3/output/github-snake.svg" />
+  <img alt="Snake animation of GitHub contributions" src="https://raw.githubusercontent.com/UyanNv3/UyanNv3/output/github-snake.svg" />
 </picture>
 
 <div align="center">
